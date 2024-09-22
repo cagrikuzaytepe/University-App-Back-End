@@ -1,0 +1,6 @@
+@UniversityPostsApi_HostAddress = http://localhost:5231
+
+GET {{UniversityPostsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
